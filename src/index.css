@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Albra Grotesk";
+  src: url("assets/fonts/Albra-Grotesk-Semi-Traced-Web.ttf"),
+  url("assets/fonts/Albra-Grotesk-Regular-Traced-Web.ttf");
+  /* Add additional formats if available */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Resolve';
+    src: url('assets/fonts/Resolve-Sans/Resolve-Regular.otf');
+}
